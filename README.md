@@ -67,7 +67,7 @@ flutter run
 
 ```bash
 git clone https://github.com/jayasaleh/attendance-app-tht
-cd attendance_app
+cd attendance-app-tht-master
 ```
 
 #### 2. Install dependencies
