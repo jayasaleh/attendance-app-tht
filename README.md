@@ -45,20 +45,38 @@ lib/
 
 ## ⚙️ Persiapan
 
-### 1. Clone project
+### Download langsung
+
+#### 1. Extract File
+
+#### 2. Install dependencies
+
+```bash
+flutter pub get
+```
+
+#### 3. Jalankan aplikasi
+
+```bash
+flutter run
+```
+
+### Github
+
+#### 1. Clone project
 
 ```bash
 git clone https://github.com/jayasaleh/attendance-app-tht
 cd attendance_app
 ```
 
-### 2. Install dependencies
+#### 2. Install dependencies
 
 ```bash
 flutter pub get
 ```
 
-### 3. Jalankan aplikasi
+#### 3. Jalankan aplikasi
 
 ```bash
 flutter run
